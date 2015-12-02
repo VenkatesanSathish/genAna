@@ -1,1 +1,1 @@
-# genAna:genome Analysis
+# genAna: for genome Analysis
